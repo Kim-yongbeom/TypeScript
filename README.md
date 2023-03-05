@@ -4,7 +4,10 @@
 - npm i typescript -g
 
 ## TypeScript 명령어
+```
+tsc (typescript compile)
 - tsc '컴파일할 파일명' (하나의 파일을 컴파일 할 때)
+```
 ```
 tsc --init 설정 후
 - tsc (프로젝트 전체를 컴파일 할 때)
