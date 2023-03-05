@@ -1,7 +1,7 @@
 # TypeScript
 
-## TypeScript 전역 설치
-- npm i typescript -g
+## TypeScript 설치
+- sudo npm i typescript
 
 ## TypeScript 명령어
 ```
