@@ -1,4 +1,4 @@
-## TypeScript 연습1
+# TypeScript 스터디
 
 ## TypeScript 전역 설치
 
