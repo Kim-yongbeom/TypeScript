@@ -1,5 +1,30 @@
 # TypeScript 스터디
 
+## TypeScript vs JavaScript
+
+- TypeScript 는 Static Types
+- JavaScript 는 Dynamic Types
+
+## JavaScript의 자료형 (기본 타입) - TypeScript와 동일
+
+- 원시 타입
+  - Boolean
+  - Number
+  - String
+  - Null
+  - Undefined
+  - Symbol (ECMAScript 6 에 추가)
+- 원시 타입은 아니지만 JavaSciprt의 타입
+  - Object: 키, 값으로 구성된 Property집합
+  - Array: 여러개의 데이터를 저장할 수 있는 자료 구조 (JS 에서는 Array도 객체이다.)
+  - Function: 하나의 고유한 목적의 작업을 수행하도록 설계된 독립적인 블록 (JS 에서는 Function도 객체이다.)
+
+## TypeScript의 추가된 타입
+
+- Any, Void, Never, UnKnown
+- Enum
+- Tuple (object 형)
+
 ## TypeScript 전역 설치
 
 - npm i typescript -g
