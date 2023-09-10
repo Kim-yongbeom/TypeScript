@@ -57,4 +57,7 @@ num(1)
 이 코드에서 a 뒤에 ': string' 이 부분은 Type Annotation (타입 어노테이션) 이라고 한다.
 만약 타입 어노테이션을 number로 바꾸면 a에 넣어줄 값을 number 타입으로 바꾸어 주어야한다.
 function의 인자에도 어노테이션을 넣어줄 수 있다.
+
+컴파일을 했다면 js 파일이 생기는데
+node test.js 를 사용해 js 파일을 읽어 줄 수 있다.
 ```
