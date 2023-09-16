@@ -13,7 +13,7 @@
   - String
   - Null
   - Undefined
-  - Symbol (ECMAScript 6 에 추가)
+  - Symbol (ES6 에 추가)
 - 원시 타입은 아니지만 JavaSciprt의 타입
   - Object: 키, 값으로 구성된 Property집합
   - Array: 여러개의 데이터를 저장할 수 있는 자료 구조 (JS 에서는 Array도 객체이다.)
